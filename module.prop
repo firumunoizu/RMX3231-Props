@@ -1,0 +1,7 @@
+id=RMX3231-Props
+name=Realme C11 (2021) Props
+version=v1.0
+versionCode=10
+author=Firumu
+description=Fix device name and low brightness on GSI ROMS
+updateJson=https://raw.githubusercontent.com/firumunoizu/RMX3231-Props/main/update.json

@@ -1,0 +1,30 @@
+# Device name fixes
+ro.product.brand=realme
+ro.product.manufacturer=realme
+ro.product.model=RMX3231
+ro.product.name=RMX3231
+ro.product.device=RMX3231
+
+ro.product.system.brand=realme
+ro.product.system.manufacturer=realme
+ro.product.system.model=RMX3231
+ro.product.system.device=RMX3231
+
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX3231
+
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX3231
+
+ro.product.system_ext.brand=realme
+ro.product.system_ext.manufacturer=realme
+
+ro.build.display.id=RMX3231RU_22.A.77
+ro.build.product=RMX3231
+
+# Brightness fixes
+persist.sys.qcom-brightness=4095
+persist.sys.phh.backlight.scale=1
+persist.sys.phh.linear_brightness=1
