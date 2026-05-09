@@ -2,5 +2,5 @@
   "version": "v1.0",
   "versionCode": 10,
   "zipUrl": "https://github.com/firumunoizu/RMX3231-Props/releases/download/v1.0/RMX3231-Props-v1.0.zip",
-  "changelog": "https://github.com/firumunoizu/RMX3231-Props/releases/tag/v1.0"
+  "changelog": "https://raw.githubusercontent.com/firumunoizu/RMX3231-Props/main/changelog.md"
 }
