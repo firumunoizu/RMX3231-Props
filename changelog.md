@@ -1,1 +1,1 @@
-First release
+Some props have been added that seem to improve performance of phone
